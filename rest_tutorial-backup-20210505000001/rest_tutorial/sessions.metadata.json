@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"rest_tutorial.sessions"},{"v":1,"key":{"expireAt":1},"name":"expireAt","ns":"rest_tutorial.sessions","expireAfterSeconds":{"$numberLong":"0"}}]}
